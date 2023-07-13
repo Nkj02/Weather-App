@@ -103,7 +103,7 @@ body{
 }
 .footer{
     position:fixed;
-    bottom: 10px;
+    bottom: 5px;
     left: 43%;
     color: rgb(215, 194, 194);
 }
