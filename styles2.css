@@ -92,3 +92,25 @@ body{
     margin-top: 10px;
     display: none;
 }
+
+@media (max-width: 350px) {
+
+    .search input{
+        width: 160px;
+    }
+    .col img{
+        width: 20px;
+        margin-right: 5px;
+    }
+    .humid{
+        margin-right: 10px
+    }
+    .humidity, .wind {
+        font-size: 22px;
+        margin-top: -6px;
+    }
+    .card {
+        width: 90%;
+    }
+    
+    }
